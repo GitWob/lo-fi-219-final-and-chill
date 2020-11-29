@@ -1050,7 +1050,7 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: 84fe08a0e0e6fbb4782a10b41bda94f1,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: -0.0378
+      value: -0.0372
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 84fe08a0e0e6fbb4782a10b41bda94f1,
         type: 3}
@@ -1105,7 +1105,7 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: 84fe08a0e0e6fbb4782a10b41bda94f1,
         type: 3}
       propertyPath: m_LocalScale.x
-      value: 0.2964825
+      value: 0.2850887
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 84fe08a0e0e6fbb4782a10b41bda94f1,
         type: 3}
@@ -2429,10 +2429,9 @@ Transform:
   m_LocalRotation: {x: 0.895488, y: -0.085355714, z: 0.072786614, w: 0.43071777}
   m_LocalPosition: {x: -1.525, y: 3.641, z: 1.083}
   m_LocalScale: {x: 1.0683, y: 0.9235026, z: 1.0683}
-  m_Children:
-  - {fileID: 2031238078}
+  m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 14
+  m_RootOrder: 15
   m_LocalEulerAnglesHint: {x: 128.387, y: -5.2509766, z: 8.348999}
 --- !u!1001 &1363736067
 PrefabInstance:
@@ -2980,7 +2979,7 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
-      objectReference: {fileID: 2100000, guid: 10d547c0c12779b47a7742b857eb4546, type: 2}
+      objectReference: {fileID: 2100000, guid: d6fa1f726ee13294a9e0c04f8edbc72c, type: 2}
     - target: {fileID: -7511558181221131132, guid: 84fe08a0e0e6fbb4782a10b41bda94f1,
         type: 3}
       propertyPath: m_CastShadows
@@ -3689,12 +3688,12 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2031238077}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0.39, z: 0.368}
-  m_LocalScale: {x: 0.84823, y: 1, z: 1}
+  m_LocalRotation: {x: 0.895488, y: -0.085355714, z: 0.072786614, w: 0.43071777}
+  m_LocalPosition: {x: -1.5802993, y: 3.1115656, z: 1.1132567}
+  m_LocalScale: {x: 0.90616417, y: 0.9235029, z: 1.0683002}
   m_Children: []
-  m_Father: {fileID: 1360009028}
-  m_RootOrder: 0
+  m_Father: {fileID: 0}
+  m_RootOrder: 14
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!108 &2031238079
 Light:
