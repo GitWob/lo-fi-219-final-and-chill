@@ -303,16 +303,6 @@ PrefabInstance:
       propertyPath: m_LocalScale.y
       value: 1.2580843
       objectReference: {fileID: 0}
-    - target: {fileID: 646693694196767787, guid: beff3fb0656ef104a9c8183d5426a49f,
-        type: 3}
-      propertyPath: m_MouseLook.XSensitivity
-      value: 1.5
-      objectReference: {fileID: 0}
-    - target: {fileID: 646693694196767787, guid: beff3fb0656ef104a9c8183d5426a49f,
-        type: 3}
-      propertyPath: m_MouseLook.YSensitivity
-      value: 1
-      objectReference: {fileID: 0}
     - target: {fileID: 646693694196767789, guid: beff3fb0656ef104a9c8183d5426a49f,
         type: 3}
       propertyPath: m_Name
@@ -1540,49 +1530,6 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8488e32f52dbbd34dac644619e15601c, type: 3}
---- !u!1 &624174153
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 624174155}
-  - component: {fileID: 624174154}
-  m_Layer: 0
-  m_Name: CursorScript
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!114 &624174154
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 624174153}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: e2992917963d5cf44a4892aeed0ff2dd, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
---- !u!4 &624174155
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 624174153}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0.0013982952, y: 1.3600922, z: -1.1599196}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_Children: []
-  m_Father: {fileID: 0}
-  m_RootOrder: 15
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &625751972
 PrefabInstance:
   m_ObjectHideFlags: 0
